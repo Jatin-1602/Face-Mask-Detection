@@ -6,3 +6,7 @@ Face Mask Detection System built with OpenCV, Keras using Deep Learning and Comp
 * OpenCV
 * Keras
 * haarcascade_frontalface_default
+
+# Streamlit App
+
+`webapp.py` file contains a simple webiste code which has been created using `Streamlit Module`.
